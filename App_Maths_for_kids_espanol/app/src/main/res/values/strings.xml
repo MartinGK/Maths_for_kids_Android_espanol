@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Maths for Kids</string>
+    <string name="desc">Descripcion</string>
+    <string name="jugar">Jugar</string>
+    <string name="record">El record es de Martin con 30 puntos</string>
+    <string name="pregunta">¿Cual es tu nombre?</string>
+
+    <string name="et_vidas">Intentos: </string>
+    <string name="nombre_jugador">Jugador</string>
+    <string name="total_score">Score: 0</string>
+    <string name="boton_sumar">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+</resources>
